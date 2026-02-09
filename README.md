@@ -43,3 +43,9 @@ Predecir qué clientes tienen mayor probabilidad de cancelar el servicio.
 - Evaluación de métricas
 - Interpretación de resultados
 - Recomendaciones estratégicas
+
+- ## Estructura del repositorio
+
+├── customer-churn-prediction.ipynb  
+├── gym_churn_us.csv  
+└── README.md
