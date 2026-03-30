@@ -4,6 +4,12 @@ Built a machine learning model to predict customer churn with 92% accuracy and i
 
 ---
 
+## 📌 Project Overview
+
+End-to-end machine learning project focused on predicting customer churn and generating actionable business insights.
+
+---
+
 ## 🚀 Business Problem
 
 Customer churn represents a critical challenge for businesses, directly impacting revenue and growth.
@@ -18,17 +24,21 @@ The objective of this project was to identify customers at risk of leaving and u
 - Identify high-risk customer segments
 - Generate actionable insights to improve retention
 
+### 💡 Key Takeaway
+
+Customer engagement and tenure are the strongest predictors of churn, suggesting that early-stage customer experience and continuous interaction are critical for retention.
+
 ---
 
 ## 💼 Business Impact
 
 This model enables businesses to:
 
-- Identify high-risk customers before churn happens
-- Prioritize retention efforts based on data-driven insights
-- Potentially reduce churn rate by targeting the most vulnerable segments
+- Identify high-risk customers before churn occurs
+- Focus retention efforts on the most vulnerable segments
+- Improve customer lifetime value through targeted strategies
 
-By applying this model, companies can improve customer lifetime value and reduce revenue loss.
+If implemented, this approach can significantly reduce churn rates and protect revenue streams.
 
 ### 🔍 Key Drivers of Churn
 
