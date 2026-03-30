@@ -148,5 +148,5 @@ jupyter notebook
 
 ## 📬 Contact
 
-LinkedIn: https://linkedin.com/in/juan-carlos-vm/
+LinkedIn: https://linkedin.com/in/juan-carlos-vm/  
 GitHub: https://github.com/JuanCa85
