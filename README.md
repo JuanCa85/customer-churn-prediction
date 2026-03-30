@@ -91,7 +91,8 @@ These variables play a critical role in predicting customer behavior.
 
 - ✅ Achieved **92% accuracy** using Random Forest  
 - ✅ Identified high-risk customer segments  
-- ✅ Built a predictive model ready for business application  
+- ✅ Built a predictive model ready for business application
+- Model performance is stable and generalizable based on evaluation metrics
 
 ---
 
@@ -172,3 +173,10 @@ jupyter notebook
 
 LinkedIn: https://linkedin.com/in/juan-carlos-vm/  
 GitHub: https://github.com/JuanCa85
+
+---
+
+## 📌 Author
+
+Juan Carlos Vértiz Millán  
+Data Analyst | Python • SQL • Power BI
