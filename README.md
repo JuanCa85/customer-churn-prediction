@@ -177,10 +177,10 @@ jupyter notebook
 ## 📁 Project Structure
 
 │  
-├── data/ # Raw and processed data  
-├── notebooks/ # Jupyter notebooks for analysis  
-├── src/ # Model scripts  
-├── images/ # Visualizations  
+├── data/   
+├── notebooks/   
+├── src/  
+├── images/  
 └── README.md  
 
 ---
