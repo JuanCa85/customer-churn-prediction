@@ -196,3 +196,5 @@ GitHub: https://github.com/JuanCa85
 
 Juan Carlos Vértiz Millán  
 Data Analyst | Python • SQL • Power BI
+
+Juan Carlos Vertiz. Built with passion for data.
