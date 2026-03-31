@@ -125,14 +125,16 @@ This model can help companies:
 
 ## 📷 Visualizations
 
+These visualizations summarize key findings and model performance:
+
 ### Churn Distribution
-![Churn Distribution](images/churn_distribution.png)
+![Churn Distribution]https://github.com/JuanCa85/customer-churn-prediction/blob/main/images/churn_distribution.png
 
 ### Feature Importance
-![Feature Importance](images/feature_importance.png)
+![Feature Importance](https://github.com/JuanCa85/customer-churn-prediction/blob/main/images/feature_importance.png)
 
 ### Model Performance
-![Model Performance](images/model_performance.png)
+![Model Performance](https://github.com/JuanCa85/customer-churn-prediction/blob/main/images/model_performance.png)
 
 ---
 
