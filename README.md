@@ -1,5 +1,11 @@
 # 📊 Customer Churn Prediction (92% Accuracy)
 
+## ⚡ TL;DR
+
+- Built a churn prediction model with **92% accuracy**
+- Identified key drivers of customer churn
+- Provided actionable recommendations to improve retention
+  
 Built a machine learning model to predict customer churn with 92% accuracy, identifying key behavioral drivers and enabling targeted retention strategies to reduce revenue loss.
 
 ![Status](https://img.shields.io/badge/Status-Completed-success)
@@ -117,7 +123,7 @@ This model can help companies:
 ## 🛠 Tools & Technologies
 
 - Python (Pandas, NumPy)
-- Scikit-learn
+- Scikit-learn (Machine Learning)
 - Data Visualization (Matplotlib / Seaborn)
 - Jupyter Notebook
 
@@ -130,11 +136,15 @@ These visualizations summarize key findings and model performance:
 ### Churn Distribution
 ![Churn Distribution](https://github.com/JuanCa85/customer-churn-prediction/blob/main/images/churn_distribution.png)
 
+Top variables driving churn prediction, highlighting the importance of customer engagement and tenure.
+
 ### Feature Importance
 ![Feature Importance](https://github.com/JuanCa85/customer-churn-prediction/blob/main/images/feature_importance.png)
 
 ### Model Performance
 ![Model Performance](https://github.com/JuanCa85/customer-churn-prediction/blob/main/images/model_performance.png)
+
+The model shows strong performance in correctly identifying both churned and retained customers, with minimal misclassification.
 
 ---
 
