@@ -139,15 +139,15 @@ This model can help companies:
 These visualizations summarize key findings and model performance:
 
 ### Churn Distribution
-![Churn Distribution](https://github.com/JuanCa85/customer-churn-prediction/blob/main/images/churn_distribution.png)
+![Churn Distribution](https://github.com/JC-Insights/customer-churn-prediction/blob/main/images/churn_distribution.png)
 
 Top variables driving churn prediction, highlighting the importance of customer engagement and tenure.
 
 ### Feature Importance
-![Feature Importance](https://github.com/JuanCa85/customer-churn-prediction/blob/main/images/feature_importance.png)
+![Feature Importance](https://github.com/JC-Insights/customer-churn-prediction/blob/main/images/feature_importance.png)
 
 ### Model Performance
-![Model Performance](https://github.com/JuanCa85/customer-churn-prediction/blob/main/images/model_performance.png)
+![Model Performance](https://github.com/JC-Insights/customer-churn-prediction/blob/main/images/model_performance.png)
 
 The model shows strong performance in correctly identifying both churned and retained customers, with minimal misclassification.
 
