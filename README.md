@@ -91,26 +91,27 @@ These variables play a critical role in predicting customer behavior.
 
 ## 📈 Key Insights
 
- Customers with low engagement levels are significantly more likely to churn  
-- Early-stage customer behavior strongly influences long-term retention  
-- Usage patterns and interaction frequency are critical indicators of customer loyalty  
-
+- **Lifetime is the strongest churn predictor** (correlation: -0.374) — churned customers had an average tenure of **1.0 months** vs **4.7 months** for retained customers
+- **Contract length is critical** — customers on short-term contracts churn at significantly higher rates; average contract period for churned customers was **1.7 months** vs **5.7 months** for retained
+- **Low class frequency signals risk** — churned customers attended **1.4 classes/month** on average vs **2.1** for retained customers
+- **Additional charges reflect engagement** — retained customers generated **$158 in additional charges** vs **$115** for churned customers, suggesting higher overall engagement
 ---
 
 ## 🏆 Results
 
-- ✅ Achieved **92% accuracy** using Random Forest  
-- ✅ Identified high-risk customer segments  
-- ✅ Built a predictive model ready for business application
-- Model performance is stable and generalizable based on evaluation metrics
+- ✅ **Random Forest** outperformed Logistic Regression across all metrics on a dataset of 4,000 gym membership records
+- ✅ **92% accuracy** | **84% precision** | **82% recall** on the churn class
+- ✅ Identified **5 distinct customer segments** with churn rates ranging from **5.4% to 35.8%**
+- ✅ High-risk cluster (Cluster 4) churns at **3.5x the rate** of the most loyal segment (Cluster 3)
 
 ---
 
 ## 🧩 Recommendations
 
-- Implement early intervention strategies for low-engagement users  
-- Design targeted retention campaigns based on customer behavior  
-- Monitor key churn indicators such as usage frequency and tenure  
+- **Target Cluster 4 immediately** — intervene within the first month with onboarding programs and engagement incentives
+- **Promote long-term contracts** — customers on 6–12 month contracts show dramatically lower churn; offer discounts for upgrades
+- **Monitor class attendance frequency** — flag customers dropping below 1.5 classes/month for proactive outreach
+- **Early engagement is key** — the first 30 days are the most critical window for retention 
 
 ---
 
